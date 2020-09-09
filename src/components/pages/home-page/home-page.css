@@ -1,0 +1,65 @@
+.home {
+    background: url("./background-1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    max-height: 78.6vh;
+}
+.title {
+    margin-top: 260px;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    color: beige;
+    font-size: 5em;
+    width: 100%;
+    -webkit-animation: kenburns-top 5s ease-out both;
+    animation: kenburns-top 5.5s ease-out both;
+}
+.footer-text {
+    color: #fff;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+.title-btn-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 180px;
+}
+
+/* animation kenburns top */
+
+@-webkit-keyframes kenburns-top {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 16%;
+        transform-origin: 50% 16%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(-15px);
+        transform: scale(1.25) translateY(-15px);
+        -webkit-transform-origin: top;
+        transform-origin: top;
+    }
+}
+
+@keyframes kenburns-top {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 16%;
+        transform-origin: 50% 16%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(-15px);
+        transform: scale(1.25) translateY(-15px);
+        -webkit-transform-origin: top;
+        transform-origin: top;
+    }
+}

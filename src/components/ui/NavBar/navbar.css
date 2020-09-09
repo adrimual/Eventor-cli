@@ -1,0 +1,48 @@
+.green-bg-btn {
+    background-color: #49C5B6;
+}
+.navbar .green-bg-btn a{
+    color:white;
+    font-weight: 600;
+}
+.navbar {
+    padding: 0;
+    text-transform: uppercase;
+}
+.nav-link a {
+    color: white;
+    font-weight: 300;
+}
+.nav-link:hover {
+    background-color: #49C5B6;
+}
+.green-bg-btn .nav-link:hover {
+    background-color: #343a40
+}
+@media (min-width: 992px) {
+.navbar-expand-lg .navbar-nav .nav-link.green-bg-btn{
+    padding: 1.8rem 3.5rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+     padding: 1.8rem 2rem;
+}
+}
+#basic-navbar-nav, #basic-navbar-nav .navbar-brand {
+    height: 100%;
+}
+.navbar-brand {
+    display: inline;
+    padding: 0 3rem;
+    font-family: 'Oleo Script', cursive;
+    text-transform: capitalize;
+    font-size: 30px;
+
+}
+.navbar-brand a {
+    color:beige
+}
+
+.nav{
+    /* max-height: 87px; */
+    min-height: 8.3vh;
+}

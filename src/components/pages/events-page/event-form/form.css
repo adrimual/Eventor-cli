@@ -1,0 +1,19 @@
+.small-input-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.form-group {
+    margin-bottom: 2.5rem;
+}
+.button-center  {
+    text-align: center;
+}
+.event-form-col-new-event {
+    padding: 5%;
+    background-color: white
+}
+
+.event-form-col-new-event h1 {
+    text-align: center
+}

@@ -1,0 +1,29 @@
+.fc .fc-button-primary {
+    color: #49C5B6;
+    background-color: #fff;
+    border-color: #49C5B6;
+
+}
+.fc .fc-button-primary:not(:disabled).fc-button-active {
+    color: #fff;
+    background-color: #49C5B6;
+    border-color: #fff;
+
+}
+.fc .fc-button {
+    border-radius: 0;
+}
+.fc-event-main-frame {
+
+    border-radius: 0;
+}
+
+.fc-daygrid-event {
+    border-radius: 0;
+}
+
+.fc-h-event {
+    border: none
+}
+
+
