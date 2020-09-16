@@ -297,7 +297,10 @@ img {
 .pointer {
     cursor: pointer
 }
-
+.logout {
+    color: white;
+    font-weight: 300;
+}
 .event-calendar{
     border: 1px solid black
 }
