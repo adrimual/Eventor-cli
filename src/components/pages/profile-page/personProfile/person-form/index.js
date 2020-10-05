@@ -10,7 +10,6 @@ import Button from 'react-bootstrap/Button'
 import Row from 'react-bootstrap/esm/Row'
 import Col from 'react-bootstrap/esm/Col'
 
-import SpinnerContainer from "../../../../ui/Spinner"
 
 class profilePerson extends Component {
 

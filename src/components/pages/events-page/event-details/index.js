@@ -3,8 +3,7 @@ import { Link } from 'react-router-dom'
 
 import EventService from '../../../../services/EventService'
 
-
-import {Col, Row, Container, Button} from 'react-bootstrap/'
+import {Col, Row, Container} from 'react-bootstrap/'
 
 import SpinnerContainer from "../../../ui/Spinner"
 

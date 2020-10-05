@@ -25,6 +25,12 @@ If you enjoy driving, GoRide is your App. Here you will be able to create or joi
 
 
 
+## Repository links
+
+**Go-Ride client:** https://github.com/adrimual/Go-Ride-cli
+
+**Go-Ride server:** https://github.com/adrimual/Go-Ride-server
+
 ## Backlog
 
 • Fix the map function and add the option to create routes with it.
