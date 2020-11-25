@@ -1,10 +1,9 @@
-# GoRide
+# Eventor
 
 
 
 ## Description
-
-If you enjoy driving, GoRide is your App. Here you will be able to create or join driving events, where you can meet new people, go for a route, enjoy a meeting with others... It does not matter if you ride car or motorbike, GoRide is made for everyone.
+If you enjoy making plans, Eventor is your App. Here you will be able to create or join events, where you can meet new people, enjoy the events created by the users and try new things.
 
 
 
@@ -17,7 +16,7 @@ If you enjoy driving, GoRide is your App. Here you will be able to create or joi
 - **Filter Events** As a user I can search events by name of event or filter the list of events by the creator of the event, the capacity, where is it going to be and when, having the possibility to filter by Today, Tomorrow, This weekend, This week and All.
 - **Details of the event** As a public user I can see the details of each event but not the profiles of the participants.
 - **Joining events** As a registered user I can Join an event and see the participant's profile.
-- **Add an event** As a user I can create new riding events.
+- **Add an event** As a user I can create new events.
 - **Edit an event** As a user and owner of the event, I can modify the details of it.
 - **User profile** As a logged user I can see, edit or delete my profile, and see other rider profiles. 
 - **User Calendar** As a user I can see a calendar with the events I joined previously.
@@ -27,15 +26,13 @@ If you enjoy driving, GoRide is your App. Here you will be able to create or joi
 
 ## Repository links
 
-**Go-Ride client:** https://github.com/adrimual/Go-Ride-cli
+**Eventor client:** https://github.com/adrimual/Eventor-cli
 
-**Go-Ride server:** https://github.com/adrimual/Go-Ride-server
+**Eventor server:** https://github.com/adrimual/Eventor-server
 
 ## Backlog
 
-• Fix the map function and add the option to create routes with it.
-
-• Add vehicles, for the moment is just an App to create events.
+• Fix the map function.
 
 • Add an internal chat.
 
@@ -163,7 +160,7 @@ Event model
 
 ### Trello/Kanban
 
-[Link to my Trello](https://trello.com/b/ekUkw2Vw/goride) 
+[Link to my Trello](https://trello.com/b/ekUkw2Vw/eventor) 
 
 ### Git/Deploy
 
